@@ -1,4 +1,4 @@
-# JS30 Day 30 - Kitty-High-Five
+# JS30 Day 30: Kitty-High-Five
 
 A whack-a-mole type game - Created with vanilla javaScript.
 
