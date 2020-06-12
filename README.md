@@ -1,6 +1,7 @@
-# JS30 Day 30 - Whack-A-Mole Game
+# JS30 Day 30 - Kitty-High-Five
 
-I changed it to a kitty-high-five game and came up with the solution on my own!
+A whack-a-mole type game - Created with vanilla javaScript.
+I came up with the solution for this one on my own!
 
 JS30 is an amazing series and you should check it out: [Wes Bos' JavaScript30](https://javascript30.com/)
 
